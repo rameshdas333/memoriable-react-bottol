@@ -1,0 +1,15 @@
+.bottols{
+   display: grid;
+   grid-template-columns: repeat(3,1fr);
+   gap: 20px;
+}
+
+.bottols img{
+  max-width: 200px;
+ }
+
+ .bottol{
+    border: 2px solid cyan;
+    padding: 15px;
+    border-radius: 10px;
+ }
